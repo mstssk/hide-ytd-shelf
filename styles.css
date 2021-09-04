@@ -1,0 +1,4 @@
+ytd-shelf-renderer {
+  /* Chrome拡張の機能でinjectしたCSSは適用順が早く、ページ自身のスタイルに負けてしまうので!important */
+  display: none !important;
+}
